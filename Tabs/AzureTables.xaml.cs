@@ -22,17 +22,17 @@ namespace Tabs
 
 		{
             loading.IsVisible = true;
-            HotDogList.ItemsSource = "";
+            CarInfo.ItemsSource = "";
             List<csumcarapptable> csumcarapp = await AzureManager.AzureManagerInstance.GetInformation();
             string tag = AzureManager.AzureManagerInstance.getTag();
             loading.IsVisible = false;
 
             if (tag != "Car not found")
             {
-                HotDogList.ItemsSource = csumcarapp.Where(x => x.model == tag);
+                CarInfo.ItemsSource = csumcarapp.Where(x => x.model == tag);
             }
 
-            //HotDogList.ItemsSource = csumcarapp;
+
 		}	
     }
 }

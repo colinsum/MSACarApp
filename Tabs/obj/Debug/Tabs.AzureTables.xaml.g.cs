@@ -11,20 +11,20 @@
 namespace Tabs {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/colinsum/Projects/Tabs/Tabs/AzureTables.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/colinsum/Desktop/MSACarApp/Tabs/AzureTables.xaml")]
     public partial class AzureTables : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.ActivityIndicator loading;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.ListView HotDogList;
+        private global::Xamarin.Forms.ListView CarInfo;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(AzureTables));
             loading = global::Xamarin.Forms.NameScopeExtensions.FindByName <global::Xamarin.Forms.ActivityIndicator>(this, "loading");
-            HotDogList = global::Xamarin.Forms.NameScopeExtensions.FindByName <global::Xamarin.Forms.ListView>(this, "HotDogList");
+            CarInfo = global::Xamarin.Forms.NameScopeExtensions.FindByName <global::Xamarin.Forms.ListView>(this, "CarInfo");
         }
     }
 }

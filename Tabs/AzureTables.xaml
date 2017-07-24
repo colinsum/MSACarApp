@@ -6,8 +6,8 @@
     <ContentPage.Content>
         <StackLayout Margin="20" Orientation="Vertical">
             <Button Text="See Photo Information" TextColor="White" BackgroundColor="#85C1E9" Clicked="Handle_ClickedAsync" />
-            <ActivityIndicator x:Name="loading" Color="Red" IsRunning="true" IsVisible="false"/>
-            <ListView x:Name="HotDogList" HasUnevenRows="True">
+            <ActivityIndicator x:Name="loading" Color="#7F7F7F" IsRunning="true" IsVisible="false"/>
+            <ListView x:Name="CarInfo" HasUnevenRows="True">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
