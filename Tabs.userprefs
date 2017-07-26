@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{61EBD5D2-7F02-4DBF-9867-FBA2BABB2218}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/csumcarapptable.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/Model/EvaluationModel.cs">
     <Files>
-      <File FileName="Tabs/AzureTables.xaml.cs" Line="32" Column="77" />
-      <File FileName="Tabs/AzureManager.cs" Line="55" Column="10" />
-      <File FileName="Tabs/CustomVision.xaml.cs" Line="36" Column="14" />
-      <File FileName="Tabs/TabsPage.xaml" Line="11" Column="15" />
+      <File FileName="Tabs/AzureTables.xaml.cs" Line="26" Column="51" />
+      <File FileName="Tabs/AzureManager.cs" Line="54" Column="21" />
+      <File FileName="Tabs/CustomVision.xaml.cs" Line="92" Column="21" />
+      <File FileName="Tabs/CustomVision.xaml" Line="3" Column="51" />
+      <File FileName="Tabs/TabsPage.xaml" Line="10" Column="5" />
       <File FileName="Tabs/AzureTables.xaml" Line="18" Column="92" />
       <File FileName="Tabs/App.xaml" Line="7" Column="1" />
-      <File FileName="Tabs/CustomVision.xaml" Line="12" Column="15" />
-      <File FileName="Tabs/csumcarapptable.cs" Line="27" Column="37" />
+      <File FileName="Tabs/csumcarapptable.cs" Line="15" Column="39" />
+      <File FileName="Tabs/Model/EvaluationModel.cs" Line="19" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
