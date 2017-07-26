@@ -1,16 +1,14 @@
 ﻿<Properties StartupConfiguration="{61EBD5D2-7F02-4DBF-9867-FBA2BABB2218}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/AzureTables.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/CustomVision.xaml.cs">
     <Files>
-      <File FileName="Tabs/AzureTables.xaml.cs" Line="36" Column="5" />
-      <File FileName="Tabs/AzureManager.cs" Line="48" Column="9" />
-      <File FileName="Tabs/CustomVision.xaml.cs" Line="98" Column="31" />
+      <File FileName="Tabs/AzureTables.xaml.cs" Line="32" Column="77" />
+      <File FileName="Tabs/AzureManager.cs" Line="55" Column="10" />
+      <File FileName="Tabs/CustomVision.xaml.cs" Line="110" Column="25" />
       <File FileName="Tabs/TabsPage.xaml" Line="11" Column="15" />
-      <File FileName="Tabs/AzureTables.xaml" Line="25" Column="15" />
+      <File FileName="Tabs/AzureTables.xaml" Line="18" Column="57" />
       <File FileName="Tabs/App.xaml" Line="7" Column="1" />
       <File FileName="Tabs/CustomVision.xaml" Line="14" Column="15" />
       <File FileName="Tabs/csumcarapptable.cs" Line="1" Column="1" />
-      <File FileName="Tabs/TabsPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="Tabs/Model/EvaluationModel.cs" Line="18" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -20,5 +18,5 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Tabs.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8A02C489-0368-4A23-A3A2-3E7E6D27CF5A" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Tabs.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.Tabs.Droid PreferredExecutionTarget="Android.550d4459" />
 </Properties>

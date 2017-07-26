@@ -23,5 +23,8 @@ namespace Tabs
         [JsonProperty(PropertyName = "engine")]
         public string engine { get; set; }
 
+		[JsonProperty(PropertyName = "detail")]
+		public string detail { get; set; }
+
     }
 }
