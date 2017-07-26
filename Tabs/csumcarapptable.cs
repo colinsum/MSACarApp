@@ -26,5 +26,7 @@ namespace Tabs
 		[JsonProperty(PropertyName = "detail")]
 		public string detail { get; set; }
 
+
+
     }
 }
