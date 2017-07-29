@@ -67,7 +67,7 @@ namespace Tabs
 
             client.DefaultRequestHeaders.Add("Prediction-Key", "212601d8ea68473e95e11d756d23a745");
 
-            string url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/2ff50d41-5b0a-419c-b01c-74978fb61f1e/image?iterationId=80f206ff-002d-4cb3-b9dc-452e71c17c37";
+            string url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/2ff50d41-5b0a-419c-b01c-74978fb61f1e/image?iterationId=ce1d2973-8243-4360-9fa6-56d4b7979a11";
 
             HttpResponseMessage response;
 
@@ -118,7 +118,7 @@ namespace Tabs
 
                 }
 
-                //Get rid of file once we have finished using it
+              
                 file.Dispose();
             }
         }
